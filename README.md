@@ -138,6 +138,17 @@ This plot shows how the SVM with an RBF kernel separates classes using just the 
 
 ---
 
+## 🌀 What is RBF?
+
+**RBF (Radial Basis Function)** is a commonly used **non-linear kernel** in Support Vector Machines (SVM). It helps the model create **curved decision boundaries**, making it ideal for datasets where classes are not linearly separable.
+
+### ✅ Key Points:
+- Transforms data into higher dimensions
+- Captures complex patterns
+- Requires tuning of `C` and `gamma` parameters
+- Performs better than linear kernel on non-linear data
+
+
 ### 🌀 🔹 RBF Kernel SVM
 
 
