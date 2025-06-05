@@ -108,6 +108,7 @@ Useful to understand how SVM separates classes using the kernel trick.
 ### 🔹 Decision Boundary Plot (RBF Kernel, 2 Features)
 This plot shows how the SVM with an RBF kernel separates classes using just the first two features.
 
+![image](https://github.com/user-attachments/assets/529fa31e-9018-4f2a-b767-c5fb72731830)
 
 
 - The **blue** and **orange** regions represent the areas predicted as Benign (0) and Malignant (1) respectively.
